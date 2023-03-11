@@ -13,7 +13,6 @@ description: ""
 				<tr>
 					<td><img src="/images/td1.jpg" style="width:85%"><br><br>Like gems, potential or natural abilities need to be appropriately nurtured and developed before an individual can realise and achieve her potential with excellence. The goal of talent development in RGS is to help our students understand their own interests, strengths and potential, to know how to pursue and engage in the best talent development activities and for them to commit themselves to the development of their talents, so that they may become women of scholarship who will be the leaders of distinction committed to excellence and enterprise, in service of the nation and the community.<br><br>Our talent development programme follows Dr Treffinger’s Levels of Service (LoS) approach. Based on more than two decades of research, the four levels of services serve as a guiding framework for designing appropriate and challenging learning experiences. They range from a broad array of services for the school-wide population (Level 1) to those focused more specifically on the characteristics and readiness of students in specific talent areas that are demonstrated by a few (Level 4).</td>
 				</tr>
-				<tr>
 					<p>
 						<table>
 							<tr>
@@ -34,3 +33,57 @@ description: ""
 							<tr>
 								<td>Level 3<br>“Enthusiastic & Performing”</td>
 								<td>Services respond to needs based on individual strengths, talents and sustained interests. Focus is on strengthening competence, confidence and commitment in the identified talent area. Services are more differentiated and responsive to students’ unique strengths and readiness in talent areas.</td>
+								<td>*   Raffles Academy 2.0<br>*   Mentorships<br>*   Internships<br>*   Conferences</td>
+							</tr>
+							<tr>
+								<td>Level 4<br>“Passionate & Soaring”</td>
+								<td>Services are constructed to respond to the blossoming expertise of the students and provide an environment that supports and encourages students to self-initiate and self-direct services based on their personal talent area. Highly individualised services here require an extraordinary level of skills development and commitment.</td>
+								<td>*   Academic customisation and individualisation through the Individualised Education Plan (e.g. acceleration in specific disciplines, grade skipping)</td>
+							</tr>
+					</table>
+				</p>
+			</table>
+		</div>
+		</li>
+		  <li>
+    <input type="checkbox" id="accordion2"> <label for="accordion2">Music Elective Programme</label>
+    <div>
+			<table>
+				<tr>
+					<td>The Music Elective Programme (MEP) is offered by the Ministry of Education to enable musically inclined students the opportunity to deepen their knowledge in music and hone their abilities in listening, creating, performing and research. It aims to equip our young musicians with musical knowledge and a diverse range of skills, putting them in good stead to fulfil musical aspirations.<br><br>Beyond classroom learning, the enriching curriculum provides our students with opportunities for hands-on music-making, access to specialised facilities and learning opportunities with professionals in the creative industries. They will also enjoy opportunities to learn and collaborate with MEP students from other schools.</td>
+					<p>
+						<table>
+							<tr>
+								<td><b>Key Understandings</b></td>
+							</tr>
+							<tr>
+								<td>*   Musical elements as the building blocks of music (melody, rhythm, texture, instrumentation, harmony, form etc.)<br>*   Music-making involves creative and critical thinking<br>*   Music is an expressive medium to communicate ideas and emotions<br>*   Music is a universal language that connects cultures<br>*   Music is a reflection and/or reaction to societal realities<br>*   Music has the power to influence and effect social change</td>
+							</tr>
+					</table>
+				</p>
+			<p>
+				<table>
+					<tr>
+						<td><b>Learning Outcomes</b></td>
+					</tr>
+					<tr>
+						<td>*   Apply musical skills, knowledge and understanding to make connections between listening, creating and performing<br>*   Develop skills to communicate, collaborate and express musical ideas and understanding<br>*   Develop critical and creative thinking in music<br>*   Develop an enduring understanding and appreciation of the diverse local and global musical cultures<br>*   Become independent learners with inquiring and innovative minds through reflective practices in music<br>*   Cultivate an informed and life-long appreciation for music and be actively involved in the arts</td>
+					</tr>
+			</table>
+			</p>
+	<p>
+		<table>
+			<tr>
+				<td><b>Programmes</b></td>
+			</tr>
+			<tr>
+				<td><b>Year 1</b></td>
+				<td><b>Year 2</b></td>
+				<td><b>Year 3</b></td>
+				<td><b>Year 4</b></td>
+			</tr>
+			<tr>
+				<td>History<br><br>*   Elements of Music<br>*   Instruments of the Orchestra<br>*   Baroque Period<br>*   Ethnic Music (I)</td>
+				<td>History<br><br>*   Classical Period<br>*   Ethnic Music (II)</td>
+				<td>History<br><br>*   Romantic Period<br>*   Jazz</td>
+				<td>History<br><br>*   20th Century Music<br>*   Pop Music</td>
