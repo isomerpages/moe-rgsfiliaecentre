@@ -1,4 +1,5 @@
 collections:
   community-outreach:
     output: true
-    order: []
+    order:
+      - Community Outreach.md
