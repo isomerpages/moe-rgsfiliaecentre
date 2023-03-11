@@ -167,4 +167,14 @@ description: ""
 							</tr>
 					</table>
 				</p>
-			
+			<p>
+				<table>
+					<tr>
+						<td><b>Programmes</b></td>
+					</tr>
+					<tr>
+						<td><b>Year 1</b><br><br>Fine Arts<br>*   Principles and Elements of Art<br>*   Drawing and Painting I<br><br>Design<br>*   Introduction to Design Process<br>*   Exploration of Materials and Processes<br>*   Introduction to Technology<br>*   Visual Communication<br><br>Electronic/Lens Based<br>*   Digital Media I<br><br>SOVA<br>*   Art Appreciation<br>*   Pioneer Artists of Singapore<br>*   Western Art History</td>
+						<td><b>Year 2</b><br><br>Fine Arts<br><br>*   Drawing and Painting II<br>*   Ceramics and Sculpture I<br><br>Design<br>*   Graphics Design<br>*   Fashion Design<br><br>Electronic/Lens Based<br>*   Digital Media II<br><br>SOVA<br>*   Art Appreciation<br>*   Western Art History<br>*   Second Generation Artists of Singapore</td>
+					</tr>
+					<tr>
+						<td>
