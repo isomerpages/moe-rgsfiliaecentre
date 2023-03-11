@@ -33,3 +33,17 @@ The Student Central assists students in completing a variety of tasks and proces
 	  <li>
     <input type="checkbox" id="accordion3"> <label for="accordion3">Student Records</label>
     <div>
+			<table>
+				<tr>
+					<td><b>Personal Information Change</b></td>
+					<td>Parents can update their/their daughter’s/ward’s address, phone number, legal name etc.</td>
+					<td>How? Parents can inform the Administrative Office via email at <a href="mailto:rgss@moe.edu.sg">rgss@moe.edu.sg</a>. We will then inform on follow-up procedures depending on the nature of the update.</td>
+				</tr>
+				<tr>
+					<td><b>Replacement or Reprint of Result Slip</b></td>
+					<td>Request for a replacement result slip.</td>
+					<td>How? The request can be sent in via email at <a href="mailto:rgss@moe.edu.sg">rgss@moe.edu.sg</a>, and the requester will be sent the following link to make payment <a href="https://ipay.rgs.edu.sg/exp/SitePages/Home.aspx">https://ipay.rgs.edu.sg/exp/SitePages/Home.aspx</a>(cost is $10.70 per document). After which, printing will be done and an email will be sent to inform the requester of the collection date.</td>
+				</tr>
+				<tr>
+					<td><b>Third Language Class/CSP/MSP and Other Subjects</b></td>
+					<td>Request for a withdrawal from the subjects.</td>
