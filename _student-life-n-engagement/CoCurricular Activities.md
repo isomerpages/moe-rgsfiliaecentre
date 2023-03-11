@@ -16,3 +16,23 @@ CCAs ensure that our students have a balanced range of experiential learning exp
 CCA participation is compulsory for all of our students. While we strive to meet their diverse needs, there is a quota in the number of members a CCA can offer to ensure that the quality of learning and safety of our students are not compromised.
 
 We have a total of 36 CCAs in RGS under four categories: Physical Sports, Visual & Performing Arts, Uniformed Groups and Clubs & Societies. They are:
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1"> <label for="accordion1">Physical Sports</label>
+    <div>
+			<table>
+				<tr>
+					<td><img src="/images/ps1.jpg" style="width:50%"></td>
+					<td><img src="/images/ps2.jpg" style="width:50%"></td>
+				</tr>
+				<tr>
+					<td>1. Badminton<br>2. Basketball<br>3. Fencing<br>4. Gymnastics (Rhythmic)<br>5. Gymnastics (Trampoline)<br>6. Netball<br>7. Sailing</td>
+					<td>8. Shooting (Air Rifle & Air Pistol)<br>9. Softball<br>10. Squash<br>11. Swimming<br>12. Table Tennis<br>13. Tennis<br>14. Track & Cross-Country</td>
+				</tr>
+				<table>
+					</div>
+				</li>
+			<li>
+				<input type="checkbox" id="accordion2"> <label for="accordion2">Visual & Performing Arts</label>
+    <div>
