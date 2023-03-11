@@ -50,3 +50,13 @@ At RGS, the following lessons from the Sexuality Education Programme will be tau
 | <br><br><br><br>3 (60 mins)  | *   Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>*   Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws etc.)  | <br><br><br><br>Term 3 Week 1  |
 |   |   |   |
 
+**Year 2 CCE 2021 Theme: Making Choices**
+
+**Unit: Respectful Relationships and Safety**
+
+| **Lesson(s)/Duration**  | **Lesson Objectives**  | **Time Period**  |
+|:-:|---|---|
+| <br><br>1 (60 mins)  | *   Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>*   Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>*   Understand what sexual orientation entails  | <br><br>Term 3 Week 1  |
+| <br>2A (60 mins)  | *   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline  | <br>Term 3 Week 2  |
+| <br><br><br>2B (60 mins)  |  *   Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>*   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | <br><br><br>Term 1 Week 3  |
+|   |   |   |
