@@ -47,3 +47,16 @@ The Student Central assists students in completing a variety of tasks and proces
 				<tr>
 					<td><b>Third Language Class/CSP/MSP and Other Subjects</b></td>
 					<td>Request for a withdrawal from the subjects.</td>
+					<td>How? For withdrawal from Third Language/CSP/MSP, parents can submit an online application via the Parents Portal at <a href="https://inet.rgs.edu.sg/parents/Lists/Add_Drop_Subject/AllItems.aspx">https://inet.rgs.edu.sg/parents/Lists/Add_Drop_Subject/AllItems.aspx</a>. Students then submit a hard copy withdrawal form at the school’s General Office (hard copy is required for mailing out to the MOE Language Centre). For withdrawal from all other subjects, parents can submit an online application via the Parents Portal at <a href="https://inet.rgs.edu.sg/parents/Lists/Add_Drop_Subject/AllItems.aspx">https://inet.rgs.edu.sg/parents/Lists/Add_Drop_Subject/AllItems.aspx</a>.</td>
+				</tr>
+				<tr>
+					<td><b>Short-Term Leave of Absence</b></td>
+					<td>Parents can apply for leave for student’s absence from school/CCA.</td>
+					<td>How? The application can be made via the Parents Portal at <a href="https://inet.rgs.edu.sg/parents/SitePages/LeaveForm.aspx.">https://inet.rgs.edu.sg/parents/SitePages/LeaveForm.aspx.</a>. <b>LINK NOT FOUND</b> All applications should be made at least <b>7</b> working days in advance of date of leave.</td>
+				</tr>
+			</table>
+			</div>
+	</li>
+		  <li>
+    <input type="checkbox" id="accordion4"> <label for="accordion4">Financial Aid</label>
+    <div>
