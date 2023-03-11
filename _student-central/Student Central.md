@@ -60,3 +60,18 @@ The Student Central assists students in completing a variety of tasks and proces
 		  <li>
     <input type="checkbox" id="accordion4"> <label for="accordion4">Financial Aid</label>
     <div>
+			<table>
+				<tr>
+					<td><b>MOE Independent School Bursary Application</b></td>
+					<td>Parents of Singapore citizen students can apply for financial support.</td>
+					<td>How? Applications can be made throughout the year via the Parents Portal at <a href="https://inet.rgs.edu.sg/parents/Pages/FAS.aspx">https://inet.rgs.edu.sg/parents/Pages/FAS.aspx</a>.</td>
+				</tr>
+				<tr>
+					<td><b>NEU PC Plus Application</b><td>
+					<td>Low-income households with students or person with disabilities may apply to own a brand new computer at an affordable price.</td>
+					<td>How? Parents can visit <a href="https://www.imda.gov.sg/How-We-Can-Help/neu%20pc-plus">https://www.imda.gov.sg/How-We-Can-Help/neu%20pc-plus</a> for more information. The application form can also downloaded from the site. Students can then submit the completed application form at the Filiae Centre.</td>
+				</tr>
+			</table>
+				</div>
+	</li>
+	</ul>
