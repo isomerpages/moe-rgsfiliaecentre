@@ -48,3 +48,10 @@ We have a total of 36 CCAs in RGS under four categories: Physical Sports, Visual
 			</table>
 				</div>
 			</li>
+			  <li>
+    <input type="checkbox" id="accordion3"> <label for="accordion3">Uniformed Groups</label>
+    <div>
+			<table>
+				<tr>
+					<td><img src="/images/ug1.jpg" style="width:50%"></td>
+					<td><img src="/images/ug2.jpg" style="width:50%"></td>
