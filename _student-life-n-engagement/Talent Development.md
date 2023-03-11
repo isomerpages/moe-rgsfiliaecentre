@@ -177,4 +177,13 @@ description: ""
 						<td><b>Year 2</b><br><br>Fine Arts<br><br>*   Drawing and Painting II<br>*   Ceramics and Sculpture I<br><br>Design<br>*   Graphics Design<br>*   Fashion Design<br><br>Electronic/Lens Based<br>*   Digital Media II<br><br>SOVA<br>*   Art Appreciation<br>*   Western Art History<br>*   Second Generation Artists of Singapore</td>
 					</tr>
 					<tr>
-						<td>
+						<td><b>Year 3</b><br><br>Fine Arts<br>*   Drawing and Painting III<br>*   Ceramics and Sculpture II<br>*   Print Making<br><br>Design<br>*   Graphics Design<br>*   3D Design<br><br>Electronic/Lens Based<br>*   Digital Media II<br><br>SOVA<br>*   Art as Narrative and Inspiration<br>*   Art as Expression and Identity<br>*   Art as Communication and Design</td>
+						<td><b>Year 4</b><br><br>Open Coursework<br>*   Ceramics<br>*   Drawing and Painting<br>*   Sculpture and Installation<br>*   Print Making<br>*   Design<br>*   Animation<br>*   Digital Media<br><br>Visual Arts Task<br><br>SOVA<br>*   Art as Narrative and Inspiration<br>*   Art as Expression and Identity<br>*   Art as Communication and Design</td>
+					</tr>
+			</table>
+			</p>
+	</tr>
+	</table>
+	</div>
+	</li>
+	<ul>
