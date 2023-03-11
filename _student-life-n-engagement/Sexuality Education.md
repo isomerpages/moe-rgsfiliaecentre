@@ -65,12 +65,9 @@ At RGS, the following lessons from the Sexuality Education Programme will be tau
 
 **Unit: Lessons About Love (Part 3)**
 
-|   |   |   |
+| **Lesson(s)/Duration**  | **Lesson Objectives**  | **Time Period**  |
 |:-:|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| <br><br><br><br>1 (60 mins)  | **Dating and Romantic Relationships:**<br><br>**Are You Ready?**<br><br>*   Recognise what constitutes responsible dating<br>*   Evaluate if a dating relationship is healthy or unhealthy<br>*   Demonstrate competencies in managing emotions in dating and romantic relationships  | <br><br><br><br>Term 3 Week 5  |
+| <br><br><br><br>1 (60 mins)  | **Rejection and Broken Relationships**<br><br>*   Recognise differences in perspectives of dating and romantic relationships<br>*   Evaluate one’s readiness for romantic relationships<br>*   Recognise challenges that occur in the context of a relationship<br>*   Examine how our response to emotions can effect relationships positively or negatively  | <br><br><br><br>Term 3 Week 6  |
+| <br><br><br><br>1 (60 mins)  | **Assertiveness, Negotiation and Responsible Decision-Making**<br><br>*   Recognise the different levels of physical intimacy in a relationship<br>*   Know the progressive nature of actions that lead to sexual arousal and intercourse<br>*   Recognise that one may unintentionally invite sexual intimacy through one’s verbal and non-verbal behaviour  | <br><br><br><br>Term 3 Week 9  |
 |   |   |   |
