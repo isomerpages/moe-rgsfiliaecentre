@@ -60,3 +60,17 @@ At RGS, the following lessons from the Sexuality Education Programme will be tau
 | <br>2A (60 mins)  | *   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline  | <br>Term 3 Week 2  |
 | <br><br><br>2B (60 mins)  |  *   Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>*   Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | <br><br><br>Term 1 Week 3  |
 |   |   |   |
+
+**Year 3 Sense and Sexuality (2nd Edition)**
+
+**Unit: Lessons About Love (Part 3)**
+
+|   |   |   |
+|:-:|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
