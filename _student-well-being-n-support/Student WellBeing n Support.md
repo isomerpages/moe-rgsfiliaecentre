@@ -47,4 +47,13 @@ The objectives of student well-being and support are:
 		  <li>
     <input type="checkbox" id="accordion2"> <label for="accordion2">Education and Career Guidance</label>
     <div>
-					
+			<table>
+				<tr>
+					<td>Our goal is to see our students being able to:<br>*   Understand their own career/academic aspirations<br>*   Develop positive attitudes towards work and learning<br>*   Integrate their career/academic aspirations with whole-person development and life-long learning<br><br>The following range of interventions are available to our students:<br>*   Linking study opportunities and career choices<br>*   School-wide career guidance activities<br>*   Learning experiences about work<br>*   Individual student planning<br><br>To make an appointment with a counsellor, please click on this <a href="http://bit.do/RGS-Book-Appointment">link.</a> <b>SITE NOT FOUND</b></td>
+				</tr>
+			</table>
+	</div>
+	</li>
+			  <li>
+    <input type="checkbox" id="accordion2"> <label for="accordion2">Education and Career Guidance</label>
+    <div>
