@@ -114,4 +114,27 @@ description: ""
 		  <li>
     <input type="checkbox" id="accordion3"> <label for="accordion3">Research Studies</label>
     <div>
-	
+			<table>
+				<tr>
+					<td>The curriculum is designed to develop information literacy and research skills in our students, prepare them for lifelong learning, and enable them to contribute to the knowledge community to effect societal improvement. The curriculum also readies our students for higher-level external mentorship projects with universities and institutes of higher learning, where they are given avenues to challenge their cognitive development and creativity through research work under the guidance of a professional.<br><br>Project assignments are inquiry-based and constructivist in approach, focusing on the process of authentic learning in solving problems. In this way, a platform is provided for our students to integrate and apply their knowledge from the classroom to real world issues. They are able to engage in research projects in a range of areas, including Science, Mathematics, Engineering, IT, Business, Humanities, Creative Writing and the Fine Arts. As projects are typically of a high intellectual standard, many of our students go on to showcase their work at various local and international programmes and competitions, including the Singapore Science & Engineering Fair, Odyssey of the Mind and Future Problem Solving Program.</td>
+				</tr>
+				<p>
+					<table>
+						<tr>
+							<td><b>**Key Understandings**</b></td>
+						</tr>
+						<tr>
+							<td>*   Knowledge is not finite as it is constantly being generated and refined through research<br>*   Inquiry is the basis of research<br>*   Research is a planned, systematic process<br>*   Research entails ethical and social responsibility<br>*   The development of effective Habits of Mind is essential for self-directed, lifelong learning</td>
+						</tr>
+				</table>
+				</p>
+			<p>
+				<table>
+					<tr>
+						<td><b>Learning Outcomes</b></td>
+					</tr>
+					<tr>
+						<td>*   Demonstrate information literacy skills<br>*   Effectively conduct self-directed learning<br>*   Demonstrate responsibility in the use of and generation of knowledge<br>*   Communicate their stand effectively and convincingly<br>*   Craft reports which adhere to recommended academic standards and/or create an innovative artefact<br>*   Reflect on the process of knowledge seeking and generation through keeping a portfolio<br>*   Develop personal effectiveness to facilitate positive social interaction and effective team building<br>*   Appreciate and effectively apply the Habits of Mind to regulate their behaviour through critical and creative thinking</td>
+					</tr>
+			</table>
+			
