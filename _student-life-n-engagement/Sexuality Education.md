@@ -71,3 +71,11 @@ At RGS, the following lessons from the Sexuality Education Programme will be tau
 | <br><br><br><br>1 (60 mins)  | **Rejection and Broken Relationships**<br><br>*   Recognise differences in perspectives of dating and romantic relationships<br>*   Evaluate one’s readiness for romantic relationships<br>*   Recognise challenges that occur in the context of a relationship<br>*   Examine how our response to emotions can effect relationships positively or negatively  | <br><br><br><br>Term 3 Week 6  |
 | <br><br><br><br>1 (60 mins)  | **Assertiveness, Negotiation and Responsible Decision-Making**<br><br>*   Recognise the different levels of physical intimacy in a relationship<br>*   Know the progressive nature of actions that lead to sexual arousal and intercourse<br>*   Recognise that one may unintentionally invite sexual intimacy through one’s verbal and non-verbal behaviour  | <br><br><br><br>Term 3 Week 9  |
 |   |   |   |
+
+**Year 4 Sense and Sexuality (2nd Edition)**
+
+| **Unit**  | **Lesson(s)/Duration**  | **Lesson Objectives**  | **Time Period**  |
+|:-:|---|---|---|
+| <br><br><br><br><br><br><br>Lessons About Love  | <br><br><br><br><br><br><br>1 (60 mins)  | **Marriage and Family Relationship Conference**<br><br>*   Reflect on the qualities of a healthy romantic relationship<br>*   Evaluate one’s readiness for a romantic relationship, leading to marriage<br>*   Recognise that intimacy in a relationship need not be limited to physical intimacy<br>*   Recognise that commitment is a necessary ingredient for success in a marriage<br>*   Identify responsibilities involved and the challenges faced in marriages  | <br><br><br><br><br><br><br>Term 2 Week 10  |
+| <br><br><br><br><br>At the Crossroads  | <br><br><br><br><br><br>1 (60 mins)  | **Gender Role and Identity**<br><br>*   Know/Define what gender role is<br>*   Distinguish between biological based socially-conditioned gender characteristics<br>*   Evaluate views towards self and others, with regard to gender differences and stereotypes<br>*   Appreciate the importance of respect for individual based on intrinsic worth and value, regardless of gender identity  | <br><br><br><br><br>Term 3 Week 6  |
+|   |   |   |   |
