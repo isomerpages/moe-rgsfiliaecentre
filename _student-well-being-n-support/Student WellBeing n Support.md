@@ -16,3 +16,35 @@ The objectives of student well-being and support are:
 *   To empower students to grow in holistic ways through the Thrive Sessions
 *   To support students with special needs in their educational pursuits and social-emotional development
 *   To extend selected programmes to neighbouring schools to facilitate social mixing of students
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1"> <label for="accordion1">Counselling Services</label>
+    <div>
+			<table>
+				<tr>
+					<td>We offer one-to-one appointments to address with students a myriad of issues they may present to the counsellors.</td>
+				</tr>
+				<p>
+					<table>
+						<tr>
+							<td><b>Interventions:</b></td>
+						</tr>
+						<tr>
+						<td>*   Individual counselling<br>*   Group counselling<br>*   Academic counselling<br>*   Parent education</td>
+						</tr>
+				<tr>
+					<td><b>Issues:</b></td>
+						</tr>
+						<tr>
+							<td>*   Addictions<br>*   Anxiety<br>*   Body image<br>*   Depression<br>*   Eating disorders<br>*   Grief and loss<br>*   Learning difficulties/disabilities<br>*   Relationship – parents, family, peers, teachers</td>
+						</tr>
+				</table>
+				</p>
+			</table>
+		</div>
+		</li>
+		  <li>
+    <input type="checkbox" id="accordion2"> <label for="accordion2">Education and Career Guidance</label>
+    <div>
+					
