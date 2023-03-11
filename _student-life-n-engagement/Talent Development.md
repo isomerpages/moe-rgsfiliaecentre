@@ -87,3 +87,18 @@ description: ""
 				<td>History<br><br>*   Classical Period<br>*   Ethnic Music (II)</td>
 				<td>History<br><br>*   Romantic Period<br>*   Jazz</td>
 				<td>History<br><br>*   20th Century Music<br>*   Pop Music</td>
+			</tr>
+			<tr>
+				<td>Harmony<br><br>*   Harmony Principles (I)<br>*   Composition (I)</td>
+				<td>Harmony<br><br>*   Harmony Principles (II)<br>*   Composition (II)</td>
+				<td>Harmony<br><br>*   Harmony Principles (III)<br>*   Composition (III)</td>
+				<td>Harmony<br><br>*   Harmony Principles (IV)<br>*   Composition (IV)</td>
+			</tr>
+			<tr>
+				<td>Aural Skills<br><br>*   Pitch (I)<br>*   Rhythm (I)</td>
+				<td>Aural Skills<br><br>*   Pitch (II)<br>*   Rhythm (II)</td>
+				<td>Aural Skills<br><br>*   Pitch (III)<br>*   Rhythm (III)</td>
+				<td>Aural Skills<br><br>*   Pitch (IV)<br>*   Rhythm (IV)</td>
+			</tr>
+			<tr>
+				
