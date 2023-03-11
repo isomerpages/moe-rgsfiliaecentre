@@ -1,4 +1,5 @@
 collections:
   student-central:
     output: true
-    order: []
+    order:
+      - Student Central.md
