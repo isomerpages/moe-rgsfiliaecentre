@@ -137,4 +137,11 @@ description: ""
 						<td>*   Demonstrate information literacy skills<br>*   Effectively conduct self-directed learning<br>*   Demonstrate responsibility in the use of and generation of knowledge<br>*   Communicate their stand effectively and convincingly<br>*   Craft reports which adhere to recommended academic standards and/or create an innovative artefact<br>*   Reflect on the process of knowledge seeking and generation through keeping a portfolio<br>*   Develop personal effectiveness to facilitate positive social interaction and effective team building<br>*   Appreciate and effectively apply the Habits of Mind to regulate their behaviour through critical and creative thinking</td>
 					</tr>
 			</table>
-			
+			</p>
+	<p>
+		<table>
+			<tr>
+				<td><b>Scope & Sequence</b></td>
+			</tr>
+			<tr>
+				<td><b>YEAR 1<br>Focus: Developing Inquiry and Research Skills</b><br><br><i>Weekly Skills Build-Up Lessons</i><br>*   Creative and Critical Thinking<br>*   Research Process and Design<br>*   Information Literacy<br>*   Data Collection<br><br><b>YEAR 2<br>Focus: Demonstrating Proficiency in Inquiry and Research</b><br><br><i>Participation in school-based academic research projects, specialised clusters or creative problem solving programmes</i><br>*   Research Planning and Design<br>*   Data Collection and Analysis<br>*   Project Management and Collaborative Work<br>*   Portfolio and Report Writing<br>*   Oral Presentation (in-house)<br><br>
