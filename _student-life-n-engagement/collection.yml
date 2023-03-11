@@ -2,9 +2,9 @@ collections:
   student-life-n-engagement:
     output: true
     order:
-      - Student Leadership & Development.md
       - Character & Leadership Education.md
       - Citizenship Education.md
       - CoCurricular Activities.md
       - Service Learning.md
       - Sexuality Education.md
+      - Student Leadership & Development.md
