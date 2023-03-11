@@ -55,3 +55,14 @@ We have a total of 36 CCAs in RGS under four categories: Physical Sports, Visual
 				<tr>
 					<td><img src="/images/ug1.jpg" style="width:50%"></td>
 					<td><img src="/images/ug2.jpg" style="width:50%"></td>
+				</tr>
+				<tr>
+					<td>1. Girl Guides<br>2. Girls’ Brigade<br>3. National Cadet Corps</td>
+					<td>4. National Police Cadet Corps (Sea)<br>5. Red Cross Youth</td>
+				</tr>
+			</table>
+					</div>
+								</li>
+			  <li>
+    <input type="checkbox" id="accordion4"> <label for="accordion4">Clubs & Societies</label>
+    <div>
