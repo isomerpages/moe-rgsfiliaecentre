@@ -101,4 +101,17 @@ description: ""
 				<td>Aural Skills<br><br>*   Pitch (IV)<br>*   Rhythm (IV)</td>
 			</tr>
 			<tr>
-				
+				<td>Performance<br><br>*   Individual (I)<br>*   Ensemble (I)</td>
+				<td>Performance<br><br>*   Individual (II)<br>*   Ensemble (II)</td>
+				<td>Performance<br><br>*   Individual (III)<br>*   Ensemble (III)</td>
+				<td>Performance<br><br>*   Individual (IV)<br>*   Ensemble (IV)</td>
+			</tr>
+	</table>
+	</p>
+</table>
+</div>
+</li>
+		  <li>
+    <input type="checkbox" id="accordion3"> <label for="accordion3">Research Studies</label>
+    <div>
+	
