@@ -74,3 +74,8 @@ We have a total of 36 CCAs in RGS under four categories: Physical Sports, Visual
 				<tr>
 					<td>1. Debate & Oratorical Society<br>2. Cogitare Club<br>3. Infocomm Club</td>
 					<td>4. Raffles Mind Sports<br>5. Robotics Club</td>
+				</tr>
+			</table>
+					</div>
+			</li>
+			</ul>
