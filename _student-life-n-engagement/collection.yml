@@ -2,6 +2,6 @@ collections:
   student-life-n-engagement:
     output: true
     order:
-      - CoCurricular Activities.md
       - Character & Leadership Education.md
       - Citizenship Education.md
+      - CoCurricular Activities.md
