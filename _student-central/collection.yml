@@ -1,0 +1,4 @@
+collections:
+  student-central:
+    output: true
+    order: []
