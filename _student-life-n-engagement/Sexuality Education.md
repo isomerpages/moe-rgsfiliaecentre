@@ -93,3 +93,4 @@ At RGS, the eTeens programme will be implemented as follow in 2021:
 | <br>Mass Talk by HPB-appointed Vendor  | *   Awareness of the different STIs and HIV/AIDS<br>*   Modes of transmission<br>*   Modes of protection, specifically on how the condom is used<br>*   Consequences and impact of STIs/HIV  | <br>Term 3 Week 3  |
 | Classroom-based Lesson  | *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  | Term 3 Week 5  |
 |   |   |   |
+
