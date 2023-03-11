@@ -21,61 +21,89 @@ We have a total of 36 CCAs in RGS under four categories: Physical Sports, Visual
   <li>
     <input type="checkbox" id="accordion1"> <label for="accordion1">Physical Sports</label>
     <div>
-			<table>
-				<tr>
-					<td><img src="/images/ps1.jpg" style="width:50%"></td>
-					<td><img src="/images/ps2.jpg" style="width:50%"></td>
-				</tr>
-				<tr>
-					<td>1. Badminton<br>2. Basketball<br>3. Fencing<br>4. Gymnastics (Rhythmic)<br>5. Gymnastics (Trampoline)<br>6. Netball<br>7. Sailing</td>
-					<td>8. Shooting (Air Rifle & Air Pistol)<br>9. Softball<br>10. Squash<br>11. Swimming<br>12. Table Tennis<br>13. Tennis<br>14. Track & Cross-Country</td>
-				</tr>
-				<table>
-					</div>
-				</li>
-			<li>
-				<input type="checkbox" id="accordion2"> <label for="accordion2">Visual & Performing Arts</label>
+      <table>
+        <tr>
+          <td><img src="/images/ps1.jpg" style="width:50%" alt="ps1"></td>
+          <td><img src="/images/ps2.jpg" style="width:50%" alt="ps2"></td>
+        </tr>
+        <tr>
+          <td>1. Badminton<br>
+          2. Basketball<br>
+          3. Fencing<br>
+          4. Gymnastics (Rhythmic)<br>
+          5. Gymnastics (Trampoline)<br>
+          6. Netball<br>
+          7. Sailing</td>
+          <td>8. Shooting (Air Rifle & Air Pistol)<br>
+          9. Softball<br>
+          10. Squash<br>
+          11. Swimming<br>
+          12. Table Tennis<br>
+          13. Tennis<br>
+          14. Track & Cross-Country</td>
+        </tr>
+      </table>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion2"> <label for="accordion2">Visual & Performing Arts</label>
     <div>
-			<table>
-				<tr>
-					<td><img src="/images/visual1.jpg" style="width:50%"></td>
-					<td><img src="/images/visual2.jpg" style="width:50%"></td>
-				</tr>
-				<tr>
-					<td>1. Art & Craft Club<br>2. Angklung Ensemble<br>3. Band Symphonic<br>4. Chinese Orchestra<br>5. Choir<br>6. Dance International</td>
-					<td>7. Ethnic Dance<br>8. Guitar Ensemble<br>9. Handbell Ensemble<br>10. Photographic Society<br>11. Raffles Drama<br>12. String Ensemble</td>
-				</tr>
-			</table>
-				</div>
-			</li>
-			  <li>
+      <table>
+        <tr>
+          <td><img src="/images/visual1.jpg" style="width:50%" alt="visual1"></td>
+          <td><img src="/images/visual2.jpg" style="width:50%" alt="visual2"></td>
+        </tr>
+        <tr>
+          <td>1. Art & Craft Club<br>
+          2. Angklung Ensemble<br>
+          3. Band Symphonic<br>
+          4. Chinese Orchestra<br>
+          5. Choir<br>
+          6. Dance International</td>
+          <td>7. Ethnic Dance<br>
+          8. Guitar Ensemble<br>
+          9. Handbell Ensemble<br>
+          10. Photographic Society<br>
+          11. Raffles Drama<br>
+          12. String Ensemble</td>
+        </tr>
+      </table>
+    </div>
+  </li>
+  <li>
     <input type="checkbox" id="accordion3"> <label for="accordion3">Uniformed Groups</label>
     <div>
-			<table>
-				<tr>
-					<td><img src="/images/ug1.jpg" style="width:50%"></td>
-					<td><img src="/images/ug2.jpg" style="width:50%"></td>
-				</tr>
-				<tr>
-					<td>1. Girl Guides<br>2. Girls’ Brigade<br>3. National Cadet Corps</td>
-					<td>4. National Police Cadet Corps (Sea)<br>5. Red Cross Youth</td>
-				</tr>
-			</table>
-					</div>
-								</li>
-			  <li>
+      <table>
+        <tr>
+          <td><img src="/images/ug1.jpg" style="width:50%" alt="ug1"></td>
+          <td><img src="/images/ug2.jpg" style="width:50%" alt="ug2"></td>
+        </tr>
+        <tr>
+          <td>1. Girl Guides<br>
+          2. Girls’ Brigade<br>
+          3. National Cadet Corps</td>
+          <td>4. National Police Cadet Corps (Sea)<br>
+          5. Red Cross Youth</td>
+        </tr>
+      </table>
+    </div>
+  </li>
+  <li>
     <input type="checkbox" id="accordion4"> <label for="accordion4">Clubs & Societies</label>
     <div>
-			<table>
-				<tr>
-					<td><img src="/images/cs1.jpg" style="width:50%"></td>
-					<td><img src="/images/cs2.jpg" style="width:50%"></td>
-				</tr>
-				<tr>
-					<td>1. Debate & Oratorical Society<br>2. Cogitare Club<br>3. Infocomm Club</td>
-					<td>4. Raffles Mind Sports<br>5. Robotics Club</td>
-				</tr>
-			</table>
-					</div>
-			</li>
-			</ul>
+      <table>
+        <tr>
+          <td><img src="/images/cs1.jpg" style="width:50%" alt="cs1"></td>
+          <td><img src="/images/cs2.jpg" style="width:50%" alt="cs2"></td>
+        </tr>
+        <tr>
+          <td>1. Debate & Oratorical Society<br>
+          2. Cogitare Club<br>
+          3. Infocomm Club</td>
+          <td>4. Raffles Mind Sports<br>
+          5. Robotics Club</td>
+        </tr>
+      </table>
+    </div>
+  </li>
+</ul>
