@@ -144,4 +144,10 @@ description: ""
 				<td><b>Scope & Sequence</b></td>
 			</tr>
 			<tr>
-				<td><b>YEAR 1<br>Focus: Developing Inquiry and Research Skills</b><br><br><i>Weekly Skills Build-Up Lessons</i><br>*   Creative and Critical Thinking<br>*   Research Process and Design<br>*   Information Literacy<br>*   Data Collection<br><br><b>YEAR 2<br>Focus: Demonstrating Proficiency in Inquiry and Research</b><br><br><i>Participation in school-based academic research projects, specialised clusters or creative problem solving programmes</i><br>*   Research Planning and Design<br>*   Data Collection and Analysis<br>*   Project Management and Collaborative Work<br>*   Portfolio and Report Writing<br>*   Oral Presentation (in-house)<br><br>
+				<td><b>YEAR 1<br>Focus: Developing Inquiry and Research Skills</b><br><br><i>Weekly Skills Build-Up Lessons</i><br>*   Creative and Critical Thinking<br>*   Research Process and Design<br>*   Information Literacy<br>*   Data Collection<br><br><b>YEAR 2<br>Focus: Demonstrating Proficiency in Inquiry and Research</b><br><br><i>Participation in school-based academic research projects, specialised clusters or creative problem solving programmes</i><br>*   Research Planning and Design<br>*   Data Collection and Analysis<br>*   Project Management and Collaborative Work<br>*   Portfolio and Report Writing<br>*   Oral Presentation (in-house)<br><br><b>YEARS 3 & 4<br>Focus: Pursuing Research with Intensity</b><br><br><i>Participation in above curriculum-level school-based academic research projects, specialised clusters or creative problem solving programmes</i><br>*   Research Planning and Design<br>*   Data Collection and Analysis<br>*   Project Management and Collaborative Work<br>*   Portfolio and Report Writing<br>*   Oral Presentation (in-house)<br>*   Public Presentation and/or Publication<br><br><i>The development of effective Habits of Mind is infused throughout all four years of the curriculum.</i></td>
+			</tr>
+	</table>
+	</p>
+	</table>
+	</div>
+	</li>
