@@ -2,4 +2,5 @@ collections:
   student-life-n-engagement:
     output: true
     order:
+      - Citizenship Education.md
       - Character & Leadership Education.md
