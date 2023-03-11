@@ -10,11 +10,7 @@ sections:
       background: /images/Hong Leong Foundation Filiae Centre.jpg
       dropdown:
         title: Hero Dropdown Title
-        options: []
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        options:
+          - title: News & Announcements
+            url: a
 ---
