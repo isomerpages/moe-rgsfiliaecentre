@@ -1,6 +1,6 @@
 title: Raffles Girls Filiae Centre
 url: https://rgs.filiaecentre.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo.jpg
 colors:
   primary-color: "#396805"
   secondary-color: "#396805"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d27p4luvfglgus.amplifyapp.com
 prod: https://master.d27p4luvfglgus.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
