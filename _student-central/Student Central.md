@@ -21,5 +21,15 @@ The Student Central assists students in completing a variety of tasks and proces
 		</div>
 	</li>
 	  <li>
-    <input type="checkbox" id="accordion2"> <label for="accordion2">Filiae Meeting Rooms</label>
+    <input type="checkbox" id="accordion2"> <label for="accordion2">Judith Prakash Leadership Development Centre Booking Info</label>
+    <div>
+			<table>
+				<tr>
+					<td>The Judith Prakash Leadership Development Centre is a space for student leaders to ideate and collaborate.<br><br><b>It is founded on the 3 key goals to  :</b><br>*   <b>INSPIRE</b> STUDENT LEADERS<br>*   PROMOTE <b>IDEATION</b> AMONG STUDENT LEADERS<br>*   BE <b>INCLUSIVE</b> IN ENCOURAGING COLLABORATION AMONG ALL STUDENT LEADERS<br><br>The space may be booked by student leaders and teachers for student leadership related activities only ( e.g. leadership training, meetings, good practice sharing, leadership activity preparation, VIA collection of items etc.)<br><br>The Judith Prakash Leadership Development Centre may be booked via this <a href="https://inet.rgs.edu.sg/students/MeetingRoomBooking/SitePages/JPLDC.aspx">link.</a></td>
+				</tr>
+			</table>
+			</div>
+	</li>
+	  <li>
+    <input type="checkbox" id="accordion3"> <label for="accordion3">Student Records</label>
     <div>
