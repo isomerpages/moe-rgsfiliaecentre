@@ -43,4 +43,10 @@ _\*LoS = Based on Don Treffinger’s levels of service approach for Talent Devel
 *   To serve the needs of beneficiary communities overseas in a way that promotes self-sustainability and positive reciprocity
 *   To develop character, leadership and other life skills of our students as they aspire to meaningfully contribute to improving the lives of underprivileged youths and their communities<br>
 						
-Since 2004, the programme has developed and initiated projects in Cambodia, Vietnam and the Philippines together with the assistance of NGOs in those countries. Students work with NGOs of identified communities over a sustained three to five years. with the motto ‘A Legacy of Love’, past and present members of the programme have impacted over 2,000 people in needy communities.
+Since 2004, the programme has developed and initiated projects in Cambodia, Vietnam and the Philippines together with the assistance of NGOs in those countries. Students work with NGOs of identified communities over a sustained three to five years. with the motto ‘A Legacy of Love’, past and present members of the programme have impacted over 2,000 people in needy communities.</td>
+				</tr>
+			</table>
+			</div>
+	</li>
+	</ul>
+				
