@@ -14,5 +14,5 @@ sections:
           - title: News & Announcements
             url: /homepage-news-n-announcements/
           - title: Upcoming Events
-            url: a
+            url: /homepage-upcoming-events/
 ---
