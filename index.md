@@ -12,5 +12,5 @@ sections:
         title: Hero Dropdown Title
         options:
           - title: News & Announcements
-            url: a
+            url: /homepage-news-n-announcements/
 ---
