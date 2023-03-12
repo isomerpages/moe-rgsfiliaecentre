@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Hong Leong Foundation Filiae Centre.jpg
       dropdown:
-        title: Hero Dropdown Title
+        title: Click here for Details
         options:
           - title: News & Announcements
             url: /homepage-news-n-announcements/
