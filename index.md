@@ -16,9 +16,9 @@ sections:
           - title: Upcoming Events
             url: /homepage-upcoming-events/
   - infopic:
-      title: Peer Helper
+      title: Peer Coach
       subtitle: Student Well-Being & Support
-      description: To make an appointment with a counsellor, please click on this
+      description: To make an appointment with a Peer Coach, please click on this
       button: link
       url: https://inet.rgs.edu.sg/students/Lists/Appointment_Peer_Helper/AllItems.aspx?InitialTabId=Ribbon%2ERead&VisibilityContext=WSSTabPersistence
       image: /images/peer helpers_f2.JPG
