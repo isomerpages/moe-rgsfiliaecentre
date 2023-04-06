@@ -20,11 +20,11 @@ The key messages of Sexuality Education are:
 *   Make responsible decisions for yourself, your family and society
 *   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies (casual sex can harm and hurt you and your loved ones)
 
-You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education. **PAGE NOT FOUND**
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education. 
 
 #### RGS’ Sexuality Education Programme for 2021
 
-Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into give main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour and Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into give main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour and Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 The subjects that incorporate topics on sexuality include:
 
@@ -99,7 +99,7 @@ At RGS, the eTeens programme will be implemented as follow in 2021:
     <input type="checkbox" id="accordion1"> <label for="accordion1">Information for Parents</label>
     <div>
       <table>
-        <tr>
+        <tbody><tr>
           <td>
             1. Parents may opt their children out of Growing Years, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.<br>
             2. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be sent to parents via the Parents Gateway at the start of the year. The completed form is to be submitted by 5 March 2021 (all levels).<br>
@@ -108,7 +108,7 @@ At RGS, the eTeens programme will be implemented as follow in 2021:
             5. Parents who wish to attend the school sexuality education programmes should contact the school to make the necessary arrangements.
           </td>
         </tr>
-      </table>
+      </tbody></table>
     </div>
   </li>
 </ul>
