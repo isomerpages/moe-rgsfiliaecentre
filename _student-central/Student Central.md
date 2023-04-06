@@ -14,19 +14,19 @@ The Student Central assists students in completing a variety of tasks and proces
     <input type="checkbox" id="accordion1"> <label for="accordion1">Filiae Meeting Rooms</label>
     <div>
       <table>
-        <tr>
+        <tbody><tr>
           <td>There are six meeting rooms (Filiae 4-9) on Level 3 of the campus Galleria Block that students can book for their meetings and group discussions.<br>
           <br>
-          Stay tuned for our room booking system!</td>
+						The Filiae Meeting Rooms&nbsp;may be booked via this&nbsp;<a href="https://inet.rgs.edu.sg/students/MeetingRoomBooking/SitePages/Filiae.aspx">link</a>.</td>
         </tr>
-      </table>
+      </tbody></table>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion2"> <label for="accordion2">Judith Prakash Leadership Development Centre Booking Info</label>
     <div>
       <table>
-        <tr>
+        <tbody><tr>
           <td>
             The Judith Prakash Leadership Development Centre is a space for student leaders to ideate and collaborate.<br>
             <br>
@@ -40,14 +40,14 @@ The Student Central assists students in completing a variety of tasks and proces
             The Judith Prakash Leadership Development Centre&nbsp;may be booked via this <a href="https://inet.rgs.edu.sg/students/MeetingRoomBooking/SitePages/JPLDC.aspx">link.</a>
           </td>
         </tr>
-      </table>
+      </tbody></table>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3"> <label for="accordion3">Student Records</label>
     <div>
       <table>
-        <tr>
+        <tbody><tr>
           <td><b>Personal Information Change</b></td>
           <td>Parents can update their/their daughter’s/ward’s address, phone number, legal name etc.</td>
           <td>
@@ -75,14 +75,14 @@ The Student Central assists students in completing a variety of tasks and proces
             How? The application can be made via the Parents Portal at <a href="https://inet.rgs.edu.sg/parents/SitePages/LeaveForm.aspx.">https://inet.rgs.edu.sg/parents/SitePages/LeaveForm.aspx.</a>. <b>LINK NOT FOUND</b> All applications should be made at least&nbsp;<b>7</b>&nbsp;working days in advance of date of leave.
           </td>
         </tr>
-      </table>
+      </tbody></table>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion4"> <label for="accordion4">Financial Aid</label>
     <div>
       <table>
-        <tr>
+        <tbody><tr>
           <td><b>MOE Independent School Bursary Application</b></td>
           <td>Parents of Singapore citizen students can apply for financial support.</td>
           <td>
@@ -97,7 +97,7 @@ The Student Central assists students in completing a variety of tasks and proces
             How? Parents can visit <a href="https://www.imda.gov.sg/How-We-Can-Help/neu%20pc-plus">https://www.imda.gov.sg/How-We-Can-Help/neu%20pc-plus</a> for more information. The application form can also downloaded from the site. Students can then submit the completed application form at the Filiae Centre.
           </td>
         </tr>
-      </table>
+      </tbody></table>
     </div>
   </li>
 </ul>
