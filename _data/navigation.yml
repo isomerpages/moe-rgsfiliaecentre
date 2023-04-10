@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: ""
 links:
+  - title: About Us
+    url: /about-us/aboutus/
+  - title: Student Life & Engagement
+    collection: student-life-n-engagement
+  - title: Student Well-Being & Support
+    url: /student-well-being-n-support/wellbeing-support/
+  - title: Student Central
+    url: /student-central/student-cen/
+  - title: Community Outreach
+    url: /community-outreach/comm-outrch/
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contact-us/contact/

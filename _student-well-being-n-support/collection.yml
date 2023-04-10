@@ -1,0 +1,5 @@
+collections:
+  student-well-being-n-support:
+    output: true
+    order:
+      - Student WellBeing n Support.md

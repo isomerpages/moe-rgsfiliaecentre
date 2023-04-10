@@ -1,0 +1,5 @@
+collections:
+  community-outreach:
+    output: true
+    order:
+      - Community Outreach.md
