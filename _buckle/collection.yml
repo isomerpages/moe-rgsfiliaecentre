@@ -1,0 +1,4 @@
+collections:
+  buckle:
+    output: true
+    order: []
