@@ -2,4 +2,4 @@ collections:
   tarbet-2024:
     output: true
     order:
-      - Example Title.md
+      - Tarbet (2024).md
