@@ -1,0 +1,4 @@
+collections:
+  richardson:
+    output: true
+    order: []
