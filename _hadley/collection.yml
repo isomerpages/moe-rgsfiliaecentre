@@ -1,4 +1,5 @@
 collections:
   hadley:
     output: true
-    order: []
+    order:
+      - Hadley (2024).md
