@@ -2,5 +2,6 @@ collections:
   hadley:
     output: true
     order:
+      - Hadley (2026).md
       - Hadley (2025).md
       - Hadley (2024).md
