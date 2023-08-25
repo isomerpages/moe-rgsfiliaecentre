@@ -1,5 +1,5 @@
 collections:
-  tarbet-2024:
+  tarbet:
     output: true
     order:
       - Tarbet (2024).md
