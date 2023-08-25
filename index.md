@@ -7,5 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hong Leong Foundation Filiae Centre.jpg
+      background: /images/rgs grow.jpg
 ---
