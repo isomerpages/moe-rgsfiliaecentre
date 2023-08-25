@@ -1,4 +1,5 @@
 collections:
   tarbet-2024:
     output: true
-    order: []
+    order:
+      - Example Title.md
