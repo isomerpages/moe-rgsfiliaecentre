@@ -2,5 +2,6 @@ collections:
   tarbet:
     output: true
     order:
+      - Tarbet (2026).md
       - Tarbet (2025).md
       - Tarbet (2024).md
