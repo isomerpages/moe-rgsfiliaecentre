@@ -1,0 +1,4 @@
+collections:
+  hadley:
+    output: true
+    order: []
