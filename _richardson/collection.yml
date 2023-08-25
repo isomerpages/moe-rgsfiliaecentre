@@ -2,5 +2,6 @@ collections:
   richardson:
     output: true
     order:
+      - Richardson (2026).md
       - Richardson (2025).md
       - Richardson (2024).md
