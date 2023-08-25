@@ -1,7 +1,7 @@
 logo: ""
 links:
   - title: Buckle
-    url: /buckle
+    url: /buckle2024
     sublinks:
       - title: "2024"
         url: /buckle2024
@@ -12,7 +12,7 @@ links:
       - title: "2027"
         url: /buckle2027
   - title: Hadley
-    url: /hadley
+    url: /hadley2024
     sublinks:
       - title: "2024"
         url: /hadley2024
@@ -23,7 +23,7 @@ links:
       - title: "2027"
         url: /hadley2027
   - title: Richardson
-    url: /richardson
+    url: /richardson2024
     sublinks:
       - title: "2024"
         url: /richardson2024
@@ -34,7 +34,7 @@ links:
       - title: "2027"
         url: /richardson2027
   - title: Tarbet
-    url: /tarbet
+    url: /tarbet2024
     sublinks:
       - title: "2024"
         url: /tarbet-2024/
@@ -45,7 +45,7 @@ links:
       - title: "2027"
         url: /tarbet2027
   - title: Waddle
-    url: /waddle
+    url: /waddle2024
     sublinks:
       - title: "2024"
         url: /waddle2024
