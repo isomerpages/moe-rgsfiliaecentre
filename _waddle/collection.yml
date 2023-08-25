@@ -2,4 +2,5 @@ collections:
   waddle:
     output: true
     order:
+      - Waddle (2025).md
       - Waddle (2024).md
