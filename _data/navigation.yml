@@ -1,14 +1,19 @@
 logo: ""
 links:
-  - title: About Us
-    url: /about-us/aboutus/
-  - title: Student Life & Engagement
-    collection: student-life-n-engagement
-  - title: Student Well-Being & Support
-    url: /student-well-being-n-support/wellbeing-support/
-  - title: Student Central
-    url: /student-central/student-cen/
-  - title: Community Outreach
-    url: /community-outreach/comm-outrch/
-  - title: Contact Us
-    url: /contact-us/contact/
+  - title: Buckle
+    url: /buckle
+    sublinks:
+      - title: "2024"
+        url: /permalink
+      - title: "2025"
+        url: /permalink
+      - title: "2026"
+        url: /permalink
+      - title: "2027"
+        url: /permalink
+      - title: "2028"
+        url: /permalink
+      - title: "2029"
+        url: /permalink
+      - title: "2030"
+        url: /permalink
