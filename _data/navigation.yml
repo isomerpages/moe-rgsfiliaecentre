@@ -33,11 +33,11 @@ links:
         url: /permalink
       - title: "2027"
         url: /permalink
-  - title: "Tarbet "
+  - title: Tarbet
     url: /tarbet
     sublinks:
       - title: "2024"
-        url: /permalink
+        url: /tarbet-2024/
       - title: "2025"
         url: /permalink
       - title: "2026"
