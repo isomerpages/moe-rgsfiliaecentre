@@ -1,0 +1,4 @@
+collections:
+  waddle:
+    output: true
+    order: []
