@@ -1,4 +1,5 @@
 collections:
   richardson:
     output: true
-    order: []
+    order:
+      - Richardson (2024).md
