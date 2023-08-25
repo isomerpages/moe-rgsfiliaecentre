@@ -1,4 +1,5 @@
 collections:
   waddle:
     output: true
-    order: []
+    order:
+      - Waddle (2024).md
