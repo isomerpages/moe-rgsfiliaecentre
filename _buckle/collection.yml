@@ -1,0 +1,9 @@
+collections:
+  buckle:
+    output: true
+    order:
+      - Buckle (2027).md
+      - Buckle (2026).md
+      - Buckle (2025).md
+      - Buckle (2024).md
+      - Buckle (2023).md

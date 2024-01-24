@@ -1,0 +1,57 @@
+logo: /images/rgs logo_horizontal.jpg
+links:
+  - title: Buckle
+    url: /buckle2024
+    sublinks:
+      - title: "2024"
+        url: /buckle2024
+      - title: "2025"
+        url: /buckle2025
+      - title: "2026"
+        url: /buckle2026
+      - title: "2027"
+        url: /buckle2027
+  - title: Hadley
+    url: /hadley2024
+    sublinks:
+      - title: "2024"
+        url: /hadley2024
+      - title: "2025"
+        url: /hadley2025
+      - title: "2026"
+        url: /hadley2026
+      - title: "2027"
+        url: /hadley2027
+  - title: Richardson
+    url: /richardson2024
+    sublinks:
+      - title: "2024"
+        url: /richardson2024
+      - title: "2025"
+        url: /richardson2025
+      - title: "2026"
+        url: /richardson2026
+      - title: "2027"
+        url: /richardson2027
+  - title: Tarbet
+    url: /tarbet-2024/
+    sublinks:
+      - title: "2024"
+        url: /tarbet-2024/
+      - title: "2025"
+        url: /tarbet2025
+      - title: "2026"
+        url: /tarbet2026
+      - title: "2027"
+        url: /tarbet2027
+  - title: Waddle
+    url: /waddle2024
+    sublinks:
+      - title: "2024"
+        url: /waddle2024
+      - title: "2025"
+        url: /waddle2025
+      - title: "2026"
+        url: /waddle2026
+      - title: "2027"
+        url: /waddle2027
